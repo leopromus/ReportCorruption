@@ -1,2 +1,4 @@
-# ReportCorruption
-platform to notice any form of corruption/ call gvt intervention
+## Flashreport africa 
+
+**address corruption overview**
+------------
